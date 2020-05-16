@@ -1,0 +1,3 @@
+module validation {
+    exports validators;
+}
