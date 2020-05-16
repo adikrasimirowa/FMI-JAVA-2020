@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c97d5dc-66c9-43e0-a944-b82b7a13e76c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfCEVqUl8FdohgmoOAO7VWFcLd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com.iterator/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com.iterator/src/iterators7c" />
+      <recent name="$PROJECT_DIR$/src/iterators7b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SequenceTest">
+    <configuration name="Sequence7a" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="iterators.Sequence" />
+      <module name="Lab11_Zad7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iterators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequence7b" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="iterators7b.Sequence" />
+      <module name="Lab11_Zad7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iterators7b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.SequenceTest" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sequence7a" />
+      <item itemvalue="Application.Sequence7b" />
+      <item itemvalue="Application.SequenceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SequenceTest" />
+        <item itemvalue="Application.Sequence7b" />
+        <item itemvalue="Application.Sequence7a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c97d5dc-66c9-43e0-a944-b82b7a13e76c" name="Default Changelist" comment="" />
+      <created>1589013649334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589013649334</updated>
+      <workItem from="1589013654695" duration="6148000" />
+      <workItem from="1589323775715" duration="350000" />
+      <workItem from="1589325751039" duration="8000" />
+      <workItem from="1589367536409" duration="48000" />
+      <workItem from="1589369833122" duration="2771000" />
+      <workItem from="1589409489583" duration="127000" />
+      <workItem from="1589410844786" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="875" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589015714647">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="875" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589015714647" />
+    <state x="1145" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1589015811711">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1145" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589015811711" />
+    <state x="855" y="351" width="474" height="403" key="#xdebugger.evaluate" timestamp="1589018304783">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="855" y="351" width="474" height="403" key="#xdebugger.evaluate/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018304783" />
+    <state width="2518" height="328" key="GridCell.Tab.0.bottom" timestamp="1589021634911">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589021634911" />
+    <state width="2518" height="328" key="GridCell.Tab.0.center" timestamp="1589021634910">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="328" key="GridCell.Tab.0.center/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589021634910" />
+    <state width="2518" height="328" key="GridCell.Tab.0.left" timestamp="1589021634908">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="328" key="GridCell.Tab.0.left/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589021634908" />
+    <state width="2518" height="328" key="GridCell.Tab.0.right" timestamp="1589021634910">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="328" key="GridCell.Tab.0.right/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589021634910" />
+    <state width="2518" height="375" key="GridCell.Tab.1.bottom" timestamp="1589018855964">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.1.bottom/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855964" />
+    <state width="2518" height="375" key="GridCell.Tab.1.center" timestamp="1589018855963">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.1.center/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855963" />
+    <state width="2518" height="375" key="GridCell.Tab.1.left" timestamp="1589018855962">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.1.left/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855962" />
+    <state width="2518" height="375" key="GridCell.Tab.1.right" timestamp="1589018855963">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.1.right/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855963" />
+    <state width="2518" height="375" key="GridCell.Tab.2.bottom" timestamp="1589018855966">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.2.bottom/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855966" />
+    <state width="2518" height="375" key="GridCell.Tab.2.center" timestamp="1589018855965">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.2.center/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855965" />
+    <state width="2518" height="375" key="GridCell.Tab.2.left" timestamp="1589018855965">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.2.left/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855965" />
+    <state width="2518" height="375" key="GridCell.Tab.2.right" timestamp="1589018855966">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="375" key="GridCell.Tab.2.right/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589018855966" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1589409605033">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589409605033" />
+    <state x="512" y="145" width="1372" height="799" key="new project wizard" timestamp="1589367581453">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="709" y="145" key="new project wizard/0.0.2560.1080/2560.0.1680.1050@0.0.2560.1080" timestamp="1589016309153" />
+    <state x="682" y="121" key="new project wizard/0.0.2560.1080/2560.23.1680.1027@0.0.2560.1080" timestamp="1589016792486" />
+    <state x="512" y="145" width="1372" height="799" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1589367581453" />
+  </component>
+</project>

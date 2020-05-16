@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="numericconverter.NumericConverterController">
+   <children>
+      <GridPane AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="btnDecimal" mnemonicParsing="false" text="Decimal" GridPane.rowIndex="1" />
+            <Button fx:id="btnHex" mnemonicParsing="false" text="Hex" GridPane.rowIndex="2" />
+            <Button fx:id="btnBinary" mnemonicParsing="false" text="Binary" GridPane.rowIndex="3" />
+            <TextField fx:id="txtDecimal" onKeyReleased="#mnuConvertDecimalOnAction" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="txtHex" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="txtBinary" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         </children>
+      </GridPane>
+      <MenuBar fx:id="mnu">
+        <menus>
+          <Menu fx:id="mnuConvert" mnemonicParsing="false" text="Convert">
+            <items>
+              <MenuItem fx:id="mnuConvertDecimal" mnemonicParsing="false" onAction="#mnuConvertDecimalOnAction" text="Decimal" />
+                  <MenuItem fx:id="mnuConvertHex" mnemonicParsing="false" onAction="#mnuConvertHexOnAction" text="Hex" />
+                  <MenuItem fx:id="mnuConvertBinary" mnemonicParsing="false" onAction="#mnuConvertBinaryOnAction" text="Binary" />
+            </items>
+          </Menu>
+          <Menu fx:id="mnuQuit" mnemonicParsing="false" onAction="#mnuQuitOnAction" text="Quit">
+               <items>
+                  <MenuItem fx:id="mnuQuitExit" mnemonicParsing="false" onAction="#mnuQuitExitOnAction" text="Exit" />
+               </items></Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

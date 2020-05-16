@@ -1,0 +1,5 @@
+module events {
+
+    exports alarm;
+
+}

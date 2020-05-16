@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PointDraw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointDraw_jar</output-path>
+    <root id="archive" name="PointDraw.jar">
+      <element id="module-output" name="PointDraw" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FIX$/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

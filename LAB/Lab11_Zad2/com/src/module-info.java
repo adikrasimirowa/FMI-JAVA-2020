@@ -1,0 +1,5 @@
+module com {
+
+    requires events;
+
+}
