@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a9e474-3018-46a1-96a1-815f37989c8c" name="Default Changelist" comment="" />
+    <list default="true" id="90a9e474-3018-46a1-96a1-815f37989c8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1boCAQljeuogBV8I5bzQtogFE4S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GameTest" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,6 +65,10 @@
       <workItem from="1589288924177" duration="5171000" />
       <workItem from="1589547951167" duration="1053000" />
       <workItem from="1589551558953" duration="599000" />
+      <workItem from="1590152843320" duration="102000" />
+      <workItem from="1590153014844" duration="1271000" />
+      <workItem from="1590155980026" duration="12000" />
+      <workItem from="1590157481384" duration="9000" />
     </task>
     <servers />
   </component>
@@ -69,10 +80,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1158" y="257" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1589292705763" />
+    <state x="418" y="326" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590154284625">
+      <screen x="0" y="56" width="1280" height="1024" />
+    </state>
+    <state x="418" y="326" width="424" height="484" key="FileChooserDialogImpl/1280.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1590154284625" />
     <state x="886" y="131" width="1024" height="845" key="SettingsEditor" timestamp="1589293355285">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="886" y="131" width="1024" height="845" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1589293355285" />
+    <state x="291" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1590153016653">
+      <screen x="0" y="56" width="1280" height="1024" />
+    </state>
+    <state x="291" y="395" key="com.intellij.ide.util.TipDialog/1280.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1590153016653" />
     <state x="948" y="140" width="972" height="799" key="new project wizard" timestamp="1589293492427">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
